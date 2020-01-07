@@ -9,7 +9,8 @@ books
 │   ├── 携程技术2017年度合辑.pdf
 │   ├── 重新定义团队-谷歌如何工作.pdf
 │   ├── 重新定义公司-谷歌是如何运营的.pdf
-│   └── 淘宝技术这十年.pdf
+│   ├── 淘宝技术这十年.pdf
+│   └── 阿里工程师的自我修养.pdf
 ├── computer
 │   ├── 图解TCP IP-第5版.pdf
 │   ├── 现代操作系统-第3版.pdf
@@ -57,5 +58,5 @@ books
     ├── 循序渐进Linux(第2版)-服务器搭建系统.pdf
     └── 深入理解Nginx-模块开发与架构解析.pdf
 
-9 directories, 44 files
+9 directories, 45 files
 ```
