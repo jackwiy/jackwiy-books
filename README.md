@@ -32,6 +32,8 @@ books
 │   └── 测试驱动的面向对象软件开发.pdf
 ├── experience
 │   └── 重新定义用户体验.pdf
+├── life
+│   └── 原则.pdf
 ├── manage
 │   ├── OKR工作法.pdf
 │   ├── OKR使用手册.pdf
@@ -58,5 +60,5 @@ books
     ├── 循序渐进Linux(第2版)-服务器搭建系统.pdf
     └── 深入理解Nginx-模块开发与架构解析.pdf
 
-9 directories, 45 files
+10 directories, 46 files
 ```
