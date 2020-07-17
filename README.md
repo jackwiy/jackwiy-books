@@ -38,6 +38,7 @@ books
 │   └── 重新定义用户体验.pdf
 ├── life
 │   └── 原则.pdf
+│   └── 如何不靠运气变得富有(上).pdf
 ├── manage
 │   ├── OKR工作法.pdf
 │   ├── OKR使用手册.pdf
